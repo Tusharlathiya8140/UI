@@ -1,16 +1,14 @@
 # project
 
 A new Flutter project.
+It has four Screen<br>
+1. Home Screen - A video post page with thumbnail preview, like button, and comment option.
+2. Story Screen - A story upload interface, where a user can upload a short video or image and preview it.
+3. Payment Screen - A simple payment gateway screen for unlocking a paid project (mock UI).
+4. Profile Screen - A user profile page with profile picture, bio, and list of posted feed.
 
-## Getting Started
+[▶️ Watch Demo Video](https://github.com/Tusharlathiya8140/UI/blob/master/app.mp4?raw=true)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
