@@ -7,7 +7,7 @@ It has four Screen<br>
 3. Payment Screen - A simple payment gateway screen for unlocking a paid project (mock UI).
 4. Profile Screen - A user profile page with profile picture, bio, and list of posted feed.
 
-[▶️ Watch Demo Video](https://github.com/Tusharlathiya8140/UI/blob/master/app.mp4?raw=true)
+[▶️ Watch Demo Video](https://github.com/user-attachments/assets/e79f1c47-10c2-4897-ae11-33b678a1ad64)
 
 
 
